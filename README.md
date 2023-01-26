@@ -1,4 +1,4 @@
-# BlakJack Vite
+# BlackJack Vite
 Esta es la creacion del juego BlackJack con JavaScript
 
 Pasos para ejecutar proyecto:
